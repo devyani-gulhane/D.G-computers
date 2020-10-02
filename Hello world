@@ -1,0 +1,7 @@
+class sample
+{
+ public static vois main(string args[])
+ {
+ System.out.println("Hello world");
+ }
+}
